@@ -1,0 +1,27 @@
+User Overview Report
+Total number of users: 3
+Total number of tasks generated and tracked: 3
+
+User Stats
+admin
+Assigned tasks: 2
+Assigned % of all work to be done: 66.67%
+Tasks completed: 0.0%
+Tasks incomplete: 100.0%
+Tasks overdue: 0.0%
+
+user1
+Assigned tasks: 1
+Assigned % of all work to be done: 33.33%
+Tasks completed: 0.0%
+Tasks incomplete: 100.0%
+Tasks overdue: 0.0%
+
+user2
+Assigned tasks: 0
+Assigned % of all work to be done: 0.0%
+Tasks completed: 0.0%
+Tasks incomplete: 100.0%
+Tasks overdue: 0.0%
+
+
